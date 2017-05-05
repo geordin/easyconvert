@@ -5,13 +5,13 @@ Libreoffice/Openoffice provides graphical utility to convert excel files to csv 
 
 Easycovert is a program written in Python which helps to do the conversions thorough single shell command. Its a faster utility and uses a better method in separating the sheets from excel files. This program requires Python3 environment for the proper working.
 
-Install Steps
+#Install Steps
 
 Step1: Download easyconvert script
 
 Step2: Copy it to Linux binary location
 
-Usage
+#Usage
 
 usage: easyconvert [-h] [-csv] [-xls] [-xlsx] filename
 
