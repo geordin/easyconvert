@@ -19,14 +19,14 @@ Convert xls/xlsx to csv and vice versa
 
 positional arguments:
 
-filename    Filename
+    filename    Filename
 
 optional arguments:
 
--h, –help  show this help message and exit
+    -h, –help  show this help message and exit
 
--csv        Convert xls/xlsx to csv
+    -csv        Convert xls/xlsx to csv
 
--xls        Convert csv to xls
+    -xls        Convert csv to xls
 
--xlsx       Convert csv to xlsx
+    -xlsx       Convert csv to xlsx
