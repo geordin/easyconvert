@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import xlrd, csv, os, argparse, glob, datetime
 from xlsxwriter.workbook import Workbook
 
